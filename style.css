@@ -1,0 +1,44 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.main{
+    margin-top: 1.5%;
+margin-left: 3%;
+margin-right: 3%;
+background-color: white;
+}
+
+.slidimage{
+    height:50vh;
+}
+
+.dynamicslid{
+    padding: 2%;
+}
+
+.about:hover{
+    background: #ccc;
+    box-shadow: 4px 3px 8px 1px #969696;
+  	
+    
+}
+
+.card:hover{
+    background: #ccc;
+    box-shadow: 4px 3px 8px 1px #969696;
+}
+.card{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.footer{
+   text-align: center;
+  
+
+}
+.iconfot{
+    padding: 1%;
+}
